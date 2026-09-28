@@ -29,9 +29,6 @@ delay(random(1000));
 pktSize=random(1000);
 printf("\nPacket no %d",i);
 printf("\tPacket size = %d",pktSize);
-
-Page 40 of 43
-
 bktInput(pktSize,op_rate);
 getch();
 }

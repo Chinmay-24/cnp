@@ -2,9 +2,6 @@
 #include <conio.h>
 #define degree 16
 int res[30];
-
-Page 27 of 43
-
 void crc(int len)
 {
 int cp[]={1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1};

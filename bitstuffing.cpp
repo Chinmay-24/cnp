@@ -19,9 +19,6 @@ if(str[si] == '1')
 count++;
 else
 count = 0;
-
-Page 20 of 43
-
 dest[di++] = str[si++];
 if(count == 5)
 {

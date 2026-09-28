@@ -25,9 +25,6 @@ else
 dest[di] = 'D', dest[di+1] = 'L', dest[di+2] = 'E', dest[di+3] = 'D', dest[di+4] = 'L',
 di +=6;
 si+=3;
-
-Page 24 of 43
-
 dest[di++] = src[si++];
 
 } // end of while loop
